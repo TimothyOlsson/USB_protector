@@ -7,4 +7,4 @@ It is capable to restart on computer startup and continues where it left off bef
 Note: The program will not run directly from github, since the program has been broken by purpose to prevent it being used for malicious purposes. The reason behind this project was to learn how computer viruses work and how it is possible to prevent and detect them. All the processes and root folders are named to easily detect if a computer has been infected by the virus for easy removal, which is why the main folder where it installs itself is placed directly in directory C:/ with the name "TOTALLYNOTHINGSUSPICIOUS". If you are interested in learning about it, contact me and I will provide you a compiled and working version.
 
 
-The project was completed during a 2 days of programming.
+The project was completed during 2 days of programming.
